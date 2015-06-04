@@ -1,0 +1,23 @@
+REQUIREMENTS:
+
+See setup.py.
+
+
+
+INSTALLATION:
+
+cd <counttrie root>
+sudo python setup.py build
+sudo python setup.py install
+
+
+If problems are encountered, try
+
+pip install cython
+
+
+TESTING
+
+sudo python setup.py test
+
+
